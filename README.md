@@ -11,7 +11,7 @@ https://admin-dashboard-ui-reactjs.vercel.app/
 
 ## Tech Stack
 
-**Client:** React, React-router-dom, Material UI (MUI), SASS(SCSS) and rechartjs library for chart
+**Client:** React, React-router-dom, Typescript, HTML, Css, Material UI (MUI), SASS(SCSS) and rechartjs library for chart
 
 
 ## Development
